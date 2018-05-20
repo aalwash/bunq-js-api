@@ -1,6 +1,6 @@
 # bunq-api
-
-A wrapper for part of the bunq API v1 in Type-/JavaScript forked from Simon Schraeders https://github.com/c0dr/bunq
+I forked this project from Chain of Freedom (https://github.com/cofdev0/bunq-api) to improve it and add better examples.
+The original code is written by Simon Schraeders (https://github.com/c0dr/bunq)
 
 
 ## intended functionality
